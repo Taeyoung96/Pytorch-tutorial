@@ -5,4 +5,5 @@
 - CUDA version : 10.0
 - Pytorch version : 1.1.0 `conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch`
 - Matplotlib : `pip install matplotlib`
+- Visdom : `pip install visdom`
 
