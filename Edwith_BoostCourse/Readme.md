@@ -7,3 +7,6 @@
 - Matplotlib : `pip install matplotlib`
 - Visdom : `pip install visdom`
 
+## 수료증
+
+<p align="center"><img src="https://user-images.githubusercontent.com/41863759/97196711-211bec00-17f0-11eb-9459-ebee2a41c02f.png" width = "400" ></p>
